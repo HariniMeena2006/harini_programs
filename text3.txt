@@ -1,0 +1,6 @@
+to work on files which is created in github 
+step1: git clone origin
+step2: if some file is created in local workspace ten to add to git
+step 2.1: git add file_name
+step 2.2: git commit -m file_name file added
+step2.3: git push origin
